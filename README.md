@@ -1,24 +1,21 @@
-## 🚀 C Kastariya Verna | Teen Hacker | Future Tech Mastermind
-
+## 🚀 C Kastariya Verna | Teen Hacker | 
 I'm not just learning code — I'm mastering systems.
 
 🔒 Cybersecurity | 🧠 Reverse Engineering | 🛠️ Software Dev | ⚙️ Automation | 🎯 CTFs  
-💻 Languages: Python, JavaScript, C, Assembly  
-📂 Tools: Burp Suite, Nmap, Metasploit, Wireshark, Git 
+💻 Languages: Python, JavaScript, C++,   
+📂 Tools: Burp Suite, Nmap, Metasploit, Wireshark, Git ,other
 🧠 Mindset: Discipline > Motivation | Monk Mode ON | Mission: Global Impact
 
 ---
 
 ### 👨‍💻 What I Do:
 - 🔍 Hunt vulnerabilities, break systems (ethically), and patch stronger ones.
-- 🚗 Building robotics + automation systems (Technoxian team).
-- 🧠 Learning full-stack development + AI integrations.
-- 🧬 Practicing deep logic, DSA, and problem-solving — every single day.
+- 🚗 
+- 🧠 Learning AI/ML+ AI integrations.
 
 ---
 
 ### 🎯 Vision:
-I’m not here to scroll.  
 I’m here to **build**, **hack**, and **lead**.
 
 > “Success isn’t luck — it’s crafted daily with focus, code, and grind.”
